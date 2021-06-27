@@ -6,30 +6,35 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### Connect with me:
-
-[<img align="left" alt="aniketars | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="aniketars | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aniket__ars | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ---
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="22px" src="python.png" />
+<img align="left" alt="C Programming" style="padding-left: 10px;" width="25px" src="c.png" />
+<img align="left" alt="C++" style="padding-left: 5px;" width="35px" src="cpp.png" />
+<img align="left" alt="Bash Scripting" style="padding-left: 3px; padding-right: 40px" width="25px" src="bash.png" />
+<img align="left" alt="Tensorflow" width="26px" src="tf.png" />
+<img align="left" alt="Pytorch" width="40px" src="pytorch.png" />
+<img align="left" alt="Pytorch Lighting" width="26px" src="pytorch_lighting.png" />
+<img align="left" alt="Numpy" style="padding-left: 15px" width="26px" src="numpy.png" />
+<img align="left" alt="Seaborn" style="padding-left: 8px" width="30px" src="seaborn.png" />
+<img align="left" alt="Pandas" style="padding-left: 8px" width="20px" src="pandas.jpg" />
+<img align="left" alt="Jupyter Notebook" style="padding-left: 12px" width="26px" src="jupyter_notebook.png" />
+<img align="left" alt="Anaconda" style="padding-left: 5px" width="50px" src="anaconda.png" />
+<img align="left" alt="AWS" style="padding-left: 5px" width="45px" src="aws.png" />
 
 <br />
+<br />
+
+---
+
+### Connect with me:
+
+[<img align="left" alt="aniketars | LinkedIn" width="30px" style="padding-right:10px" src="linkedin.png" />][linkedin]
+[<img align="left" alt="aniketars | Kaggle" style="padding-right:10px" width="28px" src="kaggle.png" />][kaggle]
+[<img align="left" alt="aniket__ars | Instagram" width="30px" src="instagram.png" />][instagram]
+
 <br />
 
 ---
